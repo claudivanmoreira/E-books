@@ -1,6 +1,6 @@
 # E-books
 
-### [Data Science](Data\ Science)
+### [Data Science](Data_Science)
 
 - Data Science from Scratch - First Principles with Python (Joel Grus, 2019)
 - Machine Learning Pocket Reference - Working with Structured Data in Python (Matt Harrison, 2019)
